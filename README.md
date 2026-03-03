@@ -6,12 +6,6 @@ Ce cours introduit les outils de programmation Python et de calcul numérique ut
 
 ## Contenu du dépôt
 
-### [`presentations/`](presentations/)
-
-Supports de cours sous forme de fichiers .html (diapositives) :
-
-- **Séance 1** — Fondamentaux de Python : variables, types, expressions, structures de contrôle (`if`, `for`, `while`), premières manipulations de données.
-
 ### [`exercices/`](exercices/)
 
 Notebooks d'exercices accompagnant chaque séance.
