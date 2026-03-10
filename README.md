@@ -22,7 +22,7 @@ Diapos et exercises de la séance de l'après-midi du 04 mars.
 
 Diapos et exercises de la séance matinale du 11 mars.
 
-### [`seance_2/`](seance_2/)
+### [`seance_5/`](seance_5/)
 
 Diapos, données et exercises de la séance de l'après-midi du 11 mars.
 
