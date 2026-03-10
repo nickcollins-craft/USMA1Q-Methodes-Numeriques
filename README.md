@@ -6,13 +6,25 @@ Ce cours introduit les outils de programmation Python et de calcul numérique ut
 
 ## Contenu du dépôt
 
-### [`exercices/`](exercices/)
+### [`seance_1/`](seance_1/)
 
-Notebooks d'exercices accompagnant chaque séance.
+Diapos et exercises de la séance du 03 mars.
 
-### [`donnees/`](donnees/)
+### [`seance_2/`](seance_2/)
 
-Fichiers de données utilisés dans les exercices.
+Diapos, données et exercises de la séance matinale du 04 mars.
+
+### [`seance_3/`](seance_3/)
+
+Diapos et exercises de la séance de l'après-midi du 04 mars.
+
+### [`seance_4/`](seance_4/)
+
+Diapos et exercises de la séance matinale du 11 mars.
+
+### [`seance_2/`](seance_2/)
+
+Diapos, données et exercises de la séance de l'après-midi du 11 mars.
 
 ## Contact
 
